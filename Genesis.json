@@ -8,5 +8,8 @@
     "difficulty": "0x400",
     "timestamp": "0x0",
     "gasLimit": "0x8000000",
-    "alloc": {}
+    "alloc": {
+    "0x83d126b1dc4077474327c41ae22f6c32de7fe571": 
+        { "balance": "300000" }
+    }
 }

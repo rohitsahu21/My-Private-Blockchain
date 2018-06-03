@@ -1,6 +1,16 @@
 =============== Jun 3, 2018 (IST) ===============
-22:17:31.152187 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
-22:17:31.253733 db@open opening
-22:17:31.256250 version@stat F·[] S·0B[] Sc·[]
-22:17:31.298374 db@janitor F·2 G·0
-22:17:31.298445 db@open done T·44.584244ms
+22:32:41.436376 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+22:32:41.511446 db@open opening
+22:32:41.513334 version@stat F·[] S·0B[] Sc·[]
+22:32:41.556136 db@janitor F·2 G·0
+22:32:41.556235 db@open done T·44.697065ms
+=============== Jun 3, 2018 (IST) ===============
+22:32:50.920037 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+22:32:50.920159 version@stat F·[] S·0B[] Sc·[]
+22:32:50.920167 db@open opening
+22:32:50.920203 journal@recovery F·1
+22:32:50.923843 journal@recovery recovering @1
+22:32:50.979289 memdb@flush created L0@2 N·11 S·720B "H\xc4\x00..\x8a\xa4\x05,v5":"y\xfc\xa9..\xc3\xee,,v2"
+22:32:50.992405 version@stat F·[1] S·720B[720B] Sc·[0.25]
+22:32:51.057981 db@janitor F·3 G·0
+22:32:51.058105 db@open done T·137.911726ms
